@@ -37,9 +37,9 @@ GRADE'S WEIGHT
 23. Write a program that reads the side size of a square and prints a square
 that size with asterisks. Your program should work for squares with sides of
 all sizes between 1 and 20. Example for side equal to 3:
-***
-***
-***
+"***"
+"***"
+"***"
 
 ### In Portguese:
 
@@ -74,6 +74,6 @@ NOTA PESO
 23. Escreva um programa que lê o tamanho do lado de um quadrado e imprime um quadrado
 daquele tamanho com asteriscos. Seu programa deve funcionar para quadrados com lados de
 todos os tamanhos entre 1 e 20. Exemplo para lado igual a 3:
-***
-***
-***
+"***"
+"***"
+"***"
